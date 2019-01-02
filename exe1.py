@@ -1,2 +1,6 @@
-nome =  input('NOme 1')
-print(nome)
+n1 = input('NOme 1')
+n2 = input('NOme 1')
+n3 = input('NOme 1')
+print('{}'.format(n1.capitalize()))
+print('{}'.format(n2.capitalize()))
+print('{}'.format(n3.capitalize()))
